@@ -2,7 +2,7 @@
 - 👀 I’m interested in Front-End Development.
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on anything related to Front-End Development/Javascript.
-- 📫 How to reach me. Email: JCallaway82@Gmail.com
+- 📫 How to reach me. Email: JCallaway82@gmail.com
 
 <!---
 JCallaway1982/JCallaway1982 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
